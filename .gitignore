@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#satisfactory files
+ExampleMod/
+FactoryGame/
+HashMap/
+MiniMap/
+StorageTeleporter/
+ProceduralNaturePack/
+Utils/
+SML/
+Untitled.umap
+Widget_ColorPicker_Preview.uasset
